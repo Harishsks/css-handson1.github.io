@@ -1,0 +1,35 @@
+.main heading{
+    color: red;
+}
+.heading{
+    color: rgb(248, 101, 101);
+}
+.ol{
+    color: brown;
+    font-size: large;
+}
+.ul{
+    color: brown;
+    font-size: large;
+    font-family: 'Lucida console';
+
+}
+.pera{
+    color: rgb(117, 15, 15);
+    }
+    .text1{
+        text-decoration: line-through;
+        font-weight: bold;  
+    }
+    .text2{
+        font-weight: bold;
+        background-color: yellow;
+    }
+    .text3{
+        background-color: yellow;
+    }
+    .link{
+        font-style: italic;
+        text-decoration: none;
+        background-color: yellow;
+    }
